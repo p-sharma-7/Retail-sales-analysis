@@ -6,7 +6,7 @@ This project provides a **Retail Sales Performance Dashboard** using **Python** 
 
 ## Dataset
 
-**Source:** [Retail Transactions Dataset on Kaggle](https://www.kaggle.com/)  
+**Source:** [Retail Transactions Dataset on Kaggle](https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset/data) 
 This dataset contains transactional data including:
 
 - `InvoiceNo`
